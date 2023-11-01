@@ -1,0 +1,25 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 01 Nov 2023 14:07:39 at https://www.myfamilyclinics.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.myfamilyclinics.com/ -O1 "A:\WORK DOCS VERY IMPORTANT\Whites\Doctor Free Website Template - Free-CSS.com\INDAIN\clone" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:08:01	Error: 	"Forbidden" (403) at link https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=32,h=32,fit=crop,f=png/_SITE-ASSETS/AwvvXODQbRuPooMZ/favicon.jpg?no-cache=1638086088307 (from https://www.myfamilyclinics.com/)
+14:09:19	Error: 	"Not Found" (404) at link https://www.myfamilyclinics.com/my-family-clinics (from https://www.myfamilyclinics.com/)
+14:09:19	Error: 	"Forbidden" (403) at link https://assets.zyrosite.com//AwvvXODQbRuPooMZ/MFC-AzGGpo0gPyH599jL.gif (from https://www.myfamilyclinics.com/my-family-clinics-services)
+14:09:19	Error: 	"Forbidden" (403) at link https://assets.zyrosite.com//AwvvXODQbRuPooMZ/eye-gif-YX44JvKgzBh0wr2a.gif (from https://www.myfamilyclinics.com/my-family-clinics-services)
+14:09:19	Error: 	"Forbidden" (403) at link https://assets.zyrosite.com//AwvvXODQbRuPooMZ/dental-YX44kj3l0vt04Lll.gif (from https://www.myfamilyclinics.com/my-family-clinics-services)
+14:09:19	Error: 	"Forbidden" (403) at link https://assets.zyrosite.com//AwvvXODQbRuPooMZ/physician-gif-AzGGp2vQrotq2962.gif (from https://www.myfamilyclinics.com/my-family-clinics-services)
+14:09:19	Error: 	"Forbidden" (403) at link https://assets.zyrosite.com//AwvvXODQbRuPooMZ/flu-dOqq5RLlBjc00rJ2.gif (from https://www.myfamilyclinics.com/my-family-clinics-services)
+14:09:19	Error: 	"Forbidden" (403) at link https://assets.zyrosite.com//AwvvXODQbRuPooMZ/img-m6LL8jNbqKuBGnZ3.gif (from https://www.myfamilyclinics.com/my-eye-clinic)
+14:09:19	Error: 	"Not Found" (404) at link https://www.myfamilyclinics.com/photo-1436262513933-a0b06755c784?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw3MjU4M3wwfDF8cmFuZG9tfHx8fHx8fHx8MTYzNDE5NzY1Nw&ixlib=rb-1.2.1&q=80&w=1080 (from https://www.myfamilyclinics.com/eye-diagnostics-center)
+14:09:19	Error: 	"Not Found" (404) at link https://www.myfamilyclinics.com/photo-1509114397022-ed747cca3f65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw3MjU4M3wwfDF8cmFuZG9tfHx8fHx8fHx8MTYzNDE5NzY1Nw&ixlib=rb-1.2.1&q=80&w=1080 (from https://www.myfamilyclinics.com/eye-diagnostics-center)
+14:09:19	Error: 	"Not Found" (404) at link https://www.myfamilyclinics.com/photo-1606937493279-1961d60f1164?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw3MjU4M3wwfDF8cmFuZG9tfHx8fHx8fHx8MTYzNDE5NzY1Nw&ixlib=rb-1.2.1&q=80&w=1080 (from https://www.myfamilyclinics.com/eye-diagnostics-center)
+14:09:19	Error: 	"Forbidden" (403) at link https://assets.zyrosite.com//AwvvXODQbRuPooMZ/physician-gif-dJool6qPbxFVbpX6.gif (from https://www.myfamilyclinics.com/my-physicians-clinic)
+14:09:19	Error: 	"Forbidden" (403) at link https://assets.zyrosite.com//AwvvXODQbRuPooMZ/nursing-gif-AwvvOMG89KCJv3kP.gif (from https://www.myfamilyclinics.com/my-physicians-clinic)
+14:09:19	Error: 	"Forbidden" (403) at link https://assets.zyrosite.com//AwvvXODQbRuPooMZ/img-mnllQP4OrjU1ZLaO.gif (from https://www.myfamilyclinics.com/my-hypertension-bp-ht-clinic)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 40 seconds : 168 links scanned, 153 files written (6105511 bytes overall) [3988949 bytes received at 39889 bytes/sec], 3236584 bytes transferred using HTTP compression in 42 files, ratio 20%, 9.8 requests per connection
+(14 errors, 0 warnings, 0 messages)
